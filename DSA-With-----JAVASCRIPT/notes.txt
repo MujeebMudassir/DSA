@@ -1,0 +1,7 @@
+Algorithm is an set of well defined instructions to solve a problem
+
+
+Big O Notation (O notation ) worste case complexity
+omega Notation best case complexity
+theata Notation average case complexity
+
