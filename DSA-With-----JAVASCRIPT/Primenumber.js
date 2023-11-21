@@ -7,7 +7,10 @@ function isPrime(n) {
     console.log("b");
     return false;
   }
+  console.log("c");
   return true;
 }
 
 console.log(isPrime(9));
+console.log(isPrime(73));
+console.log(isPrime(89));
